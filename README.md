@@ -1,0 +1,1 @@
+# oracle_database_11g_and_active_directory_to_mysql.ps1
